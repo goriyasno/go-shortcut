@@ -20,8 +20,8 @@ func main()  {
     fmt.Println(shortcut.KKK)
     // 1 000 000 000 
     fmt.Println(shortcut.GB) 
-// 1 000 000 000 
+    // 1 000 000 000 
     fmt.Println(shortcut.Billion) 
-// 1 000 000 000 
+    // 1 000 000 000 
 }
 ```
